@@ -6,7 +6,7 @@ NPM : 1101221140
 Informatika 4
 Universitas Banten Jaya
 ```
-![APP Screenshot](https://github.com/Antsistra/UTS_PEMROGRAMAN_DASAR_SMT2/blob/main/Menu.png)
+![APP Screenshot](https://github.com/Antsistra/UTS_PEMROGRAMAN_DASAR_SMT2/blob/main/Menua.png)
 
 Total Kurang Dari Rp5.000.000
 
