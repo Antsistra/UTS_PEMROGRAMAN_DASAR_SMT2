@@ -30,7 +30,6 @@ Mkdir UTS_Pemrograman
 git clone https://github.com/Antsistra/UTS_PEMROGRAMAN_DASAR.git
 ```
 
-Simple Console Program Using C# Vanilla
 
 Develop Using Dotnet Console Framework Net 7.0
 
